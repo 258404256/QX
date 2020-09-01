@@ -11,17 +11,17 @@
 
 ### 全局配置：
 
-* [QuantumultX.conf](https://raw.githubusercontent.com/258404256/nzw9314/master/QuantumultX.conf)
+* [QuantumultX.conf](https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/Loon.scripts.conf)
 
 
 ### 远程配置：
 * [视频教程](https://youtu.be/tr5aji82Vks)
 
-* [Js.conf](https://raw.githubusercontent.com/258404256/nzw9314/master/Js.conf) 脚本远程订阅
+* [Js.conf](https://raw.githubusercontent.com/258404256/QX/master/Js.conf) 脚本远程订阅
 
-* [Get_Cookie_Remote.conf](https://raw.githubusercontent.com/258404256/nzw9314/master/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [Get_Cookie_Remote.conf](https://raw.githubusercontent.com/258404256/QX/master/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
 
-* [Task_Remote.conf](https://raw.githubusercontent.com/258404256/nzw9314/master/Task_Remote.conf) 定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
+* [Task_Remote.conf](https://raw.githubusercontent.com/258404256/QX/master/Task_Remote.conf) 定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
 
 
 
